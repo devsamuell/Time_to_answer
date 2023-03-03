@@ -29,8 +29,8 @@
       <%= yield %>
     </div>
 
-    <%= javascript_include_tag 'default' %>
-    <%= javascript_include_tag 'default' 'admin_devise' %>
+    <%= javascript_include_tag 'application' %>
+    <%= javascript_include_tag 'admin_devise' %>
 
     <% if flash %>
         <% flash.each do |key, value| %>
