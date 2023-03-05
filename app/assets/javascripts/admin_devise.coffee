@@ -1,4 +1,4 @@
-//= require jquery/dist/jquery
+//= require jquery.ui.all
 //= require bootstrap/dist/js/bootstrap
 //= require metismenu/dist/metisMenu
 //= require sb-admin-2

@@ -1,2 +1,2 @@
-//= require jquery/dist/jquery
+//= require jquery.ui.all
 //= require bootstrap-growl-ifightcrime/jquery.bootstrap-growl
